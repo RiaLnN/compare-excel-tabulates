@@ -1,0 +1,17 @@
+# Python cache and virtual envs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Output files
+compare_v2.xlsx
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
